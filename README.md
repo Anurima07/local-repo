@@ -7,6 +7,8 @@ This is my local repository for testing and learning Git operations.
 - Clone this repository
 - Make changes
 - Commit and push
--and again do soe update
+-and again do soe updates
+-idk why its not working
+
 
 Author: [Anurima Ghosh]
